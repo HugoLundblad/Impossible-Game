@@ -20,11 +20,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -63,6 +64,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
@@ -2803,137 +2805,136 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      tileset_86: -1217263287
-      tileset_79: 915213848
-      tileset_36: 644421244
-      tileset_83: -125232987
-      tileset_4: 1500519787
-      tileset_114: -1240000440
-      tileset_108: -1699926307
-      tileset_118: -1532421478
-      tileset_124: 1482374052
-      tileset_6: 2063449736
-      tileset_11: -337436619
-      tileset_70: 1644597054
-      tileset_89: -108914708
-      tileset_103: -142087298
-      tileset_46: -595553242
-      tileset_8: -652469548
-      tileset_52: -727736655
-      tileset_101: -474277809
-      tileset_17: -1405112614
-      tileset_125: 1377588258
-      tileset_2: 1988316119
-      tileset_51: -811599259
-      tileset_85: 2057809173
-      tileset_9: -1380076632
-      tileset_26: -133926862
-      tileset_42: 276593759
-      tileset_115: -1270716156
-      tileset_98: -1976276794
-      tileset_23: 2431666
-      tileset_96: 1175057970
-      tileset_29: -431341834
-      tileset_18: 319370101
-      tileset_107: -384903544
-      tileset_22: 161591976
-      tileset_39: 1382776139
-      tileset_1: 1866908691
-      tileset_80: -1677938395
-      tileset_111: -1038250790
-      tileset_91: -1652140697
-      tileset_122: -1941177562
-      tileset_119: -133691146
-      tileset_44: 435710143
-      tileset_53: 1202297825
-      tileset_15: -1984863313
-      tileset_55: -1684187507
-      tileset_102: 817192250
-      tileset_10: -1398125112
-      tileset_121: -1050161672
-      tileset_104: -2054000176
-      tileset_106: -1004873157
-      tileset_66: 384401589
-      tileset_7: -54097716
-      tileset_126: 1022713249
-      tileset_14: -1400373930
-      tileset_94: 686633398
-      tileset_84: -1744539690
-      tileset_68: -1267124538
-      tileset_48: -2143845077
-      tileset_12: -1542682698
-      tileset_30: -402098019
-      tileset_41: -193948321
-      tileset_64: 62367990
-      tileset_88: -1429740661
-      tileset_120: 1048991061
-      tileset_25: 1699865052
-      tileset_76: 900172866
-      tileset_24: -546940597
-      tileset_5: 1769684282
-      tileset_61: 1199905042
-      tileset_50: -1666573404
-      tileset_28: 381735539
-      tileset_73: 1394402246
-      tileset_75: 384101392
-      tileset_71: 1422235594
-      tileset_21: -1941853080
-      tileset_77: -687536421
-      tileset_19: -1034568728
-      tileset_72: -1065477233
-      tileset_81: 1444388620
-      tileset_99: 1081464207
-      tileset_97: -1828221819
-      tileset_27: -1786421316
-      tileset_90: 1933815865
-      tileset_74: 912038738
-      tileset_109: -1758022196
-      tileset_62: -39712626
-      tileset_100: -187201713
-      tileset_3: -1195928454
-      tileset_43: -147818853
-      tileset_82: -330421353
-      tileset_56: 1640504812
-      tileset_38: -829693879
-      tileset_37: 1535374466
-      tileset_49: 367279385
-      tileset_113: 755052328
-      tileset_127: 721135821
-      tileset_95: -1121358343
       tileset_0: 154955401
+      tileset_1: 1866908691
+      tileset_10: -1398125112
+      tileset_100: -187201713
+      tileset_101: -474277809
+      tileset_102: 817192250
+      tileset_103: -142087298
+      tileset_104: -2054000176
       tileset_105: -1316202274
-      tileset_58: -1362712669
-      tileset_59: -1164362675
-      tileset_93: -2064671592
-      tileset_117: 1750527037
-      tileset_60: -1840572583
-      tileset_92: 1846340028
+      tileset_106: -1004873157
+      tileset_107: -384903544
+      tileset_108: -1699926307
+      tileset_109: -1758022196
+      tileset_11: -337436619
       tileset_110: 815227290
-      tileset_57: -1219636098
-      tileset_40: 725235267
-      tileset_47: -1908432410
-      tileset_54: -698069747
+      tileset_111: -1038250790
       tileset_112: -38771310
-      tileset_123: -354896858
+      tileset_113: 755052328
+      tileset_114: -1240000440
+      tileset_115: -1270716156
       tileset_116: 494250970
-      tileset_20: 173706181
-      tileset_32: 1933777033
-      tileset_16: -954287031
-      tileset_65: -1390160709
-      tileset_67: 158132510
-      tileset_31: 629763151
+      tileset_117: 1750527037
+      tileset_118: -1532421478
+      tileset_119: -133691146
+      tileset_12: -1542682698
+      tileset_120: 1048991061
+      tileset_121: -1050161672
+      tileset_122: -1941177562
+      tileset_123: -354896858
+      tileset_124: 1482374052
+      tileset_125: 1377588258
+      tileset_126: 1022713249
+      tileset_127: 721135821
       tileset_13: -643879916
-      tileset_69: 774546529
-      tileset_63: 1574230738
-      tileset_45: 865096542
-      tileset_35: -325413219
-      tileset_87: -410406475
+      tileset_14: -1400373930
+      tileset_15: -1984863313
+      tileset_16: -954287031
+      tileset_17: -1405112614
+      tileset_18: 319370101
+      tileset_19: -1034568728
+      tileset_2: 1988316119
+      tileset_20: 173706181
+      tileset_21: -1941853080
+      tileset_22: 161591976
+      tileset_23: 2431666
+      tileset_24: -546940597
+      tileset_25: 1699865052
+      tileset_26: -133926862
+      tileset_27: -1786421316
+      tileset_28: 381735539
+      tileset_29: -431341834
+      tileset_3: -1195928454
+      tileset_30: -402098019
+      tileset_31: 629763151
+      tileset_32: 1933777033
       tileset_33: 291518309
       tileset_34: -465355678
+      tileset_35: -325413219
+      tileset_36: 644421244
+      tileset_37: 1535374466
+      tileset_38: -829693879
+      tileset_39: 1382776139
+      tileset_4: 1500519787
+      tileset_40: 725235267
+      tileset_41: -193948321
+      tileset_42: 276593759
+      tileset_43: -147818853
+      tileset_44: 435710143
+      tileset_45: 865096542
+      tileset_46: -595553242
+      tileset_47: -1908432410
+      tileset_48: -2143845077
+      tileset_49: 367279385
+      tileset_5: 1769684282
+      tileset_50: -1666573404
+      tileset_51: -811599259
+      tileset_52: -727736655
+      tileset_53: 1202297825
+      tileset_54: -698069747
+      tileset_55: -1684187507
+      tileset_56: 1640504812
+      tileset_57: -1219636098
+      tileset_58: -1362712669
+      tileset_59: -1164362675
+      tileset_6: 2063449736
+      tileset_60: -1840572583
+      tileset_61: 1199905042
+      tileset_62: -39712626
+      tileset_63: 1574230738
+      tileset_64: 62367990
+      tileset_65: -1390160709
+      tileset_66: 384401589
+      tileset_67: 158132510
+      tileset_68: -1267124538
+      tileset_69: 774546529
+      tileset_7: -54097716
+      tileset_70: 1644597054
+      tileset_71: 1422235594
+      tileset_72: -1065477233
+      tileset_73: 1394402246
+      tileset_74: 912038738
+      tileset_75: 384101392
+      tileset_76: 900172866
+      tileset_77: -687536421
       tileset_78: 551143431
-  spritePackingTag: 
+      tileset_79: 915213848
+      tileset_8: -652469548
+      tileset_80: -1677938395
+      tileset_81: 1444388620
+      tileset_82: -330421353
+      tileset_83: -125232987
+      tileset_84: -1744539690
+      tileset_85: 2057809173
+      tileset_86: -1217263287
+      tileset_87: -410406475
+      tileset_88: -1429740661
+      tileset_89: -108914708
+      tileset_9: -1380076632
+      tileset_90: 1933815865
+      tileset_91: -1652140697
+      tileset_92: 1846340028
+      tileset_93: -2064671592
+      tileset_94: 686633398
+      tileset_95: -1121358343
+      tileset_96: 1175057970
+      tileset_97: -1828221819
+      tileset_98: -1976276794
+      tileset_99: 1081464207
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
